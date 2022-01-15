@@ -5,7 +5,7 @@ description: experimental linguistics | UiT the Arctic University of Norway
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: "myrte dot v at gmail dot com"
+email: "myrte.v@gmail.com"
 
 
 highlighter: rouge
