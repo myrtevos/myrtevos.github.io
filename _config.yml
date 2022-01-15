@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Myrte Vos
+description: experimental linguistics | UiT the Arctic University of Norway
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: "myrte dot v at gmail dot com"
 
 
 highlighter: rouge
@@ -17,11 +17,8 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
+linkedin: "https://www.linkedin.com/in/myrte-vos-a192a253/"
+github: "https://github.com/myrtevos"
 orcid: "#"
 
 highlighter: rouge
