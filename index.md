@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: 20210907_162527.jpg
+  image: headshot.jpg
 published: true
 ---
 
