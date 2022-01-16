@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AMLaP talk 2021
-description: Comparing infrared and webcam-based eye tracking in the Visual World Paradigm
+description: Presentation of my first PhD results
 ---
 
 | *Comparing Infrared and Webcam-based Eye Tracking in the Visual World Paradigm*
