@@ -7,8 +7,7 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I'm working on a PhD in experimental semantics at the University of Tromsø, where my supervisor is [Gillian Ramchand](https://gillianramchand.blog/){:target="_blank"} I use eye-tracking (mostly via webcam) to investigate how people process subtly different types of verb tense and aspect (mostly in English). 
+As a side-effect, I am now also really interested in web-based research, from design and programming to privacy and ethics.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+In my downtime, I skate with [Arctic Roller Derby](https://www.instagram.com/arcticrollerderby/){:target="_blank"} and make things (mostly with yarn and art supplies).
