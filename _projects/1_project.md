@@ -143,6 +143,8 @@ and images can be specified like so:
 
 ![example image](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=500&h=500&fit=crop "An exemplary image")
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BeaF5lNGfmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Inline math equation: $\omega = d\phi / dt$. Display
 math should get its own line like so:
 
