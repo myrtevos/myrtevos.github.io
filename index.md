@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: headshot.jpg
+  image: IMG_4347.jpeg
 published: true
 ---
 
